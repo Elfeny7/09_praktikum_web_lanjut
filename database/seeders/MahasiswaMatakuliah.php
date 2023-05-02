@@ -20,24 +20,24 @@ class MahasiswaMatakuliah extends Seeder
     {
         $nilai = [
             [
-                'mahasiswa_id' => 2141720123,
+                'mahasiswa_id' => 2141720124,
                 'matakuliah_id' => 1,
-                'nilai' => 'A',
+                'nilai' => 'B',
             ],
             [
-                'mahasiswa_id' => 2141720123,
+                'mahasiswa_id' => 2141720124,
                 'matakuliah_id' => 2,
-                'nilai' => 'A',
+                'nilai' => 'B',
             ],
             [
-                'mahasiswa_id' => 2141720123,
+                'mahasiswa_id' => 2141720124,
                 'matakuliah_id' => 3,
-                'nilai' => 'A',
+                'nilai' => 'B',
             ],
             [
-                'mahasiswa_id' => 2141720123,
+                'mahasiswa_id' => 2141720124,
                 'matakuliah_id' => 4,
-                'nilai' => 'A',
+                'nilai' => 'B',
             ],
         ];
 
